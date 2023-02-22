@@ -8,9 +8,9 @@ I am currently Owner on [MoonNetwork](https://discord.io/networkmoon)
 - FastMOTD (Private for my network)
 - xAntiBot (Private for my network)
 
-📫 E-mail contact: moonnetworkar@gmail.com
+📫 E-mail contact: moonnetworkar@gmail.com <br>
 📞 Discord: Mode#1000
 
-[![DevModee's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevModee&show_icons=true&theme=merko)](https://github.com/DevModee/)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevModee&layout=compact&theme=tokyonight)](https://github.com/DevModee/)
+[![DevModee's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevModee&show_icons=true&theme=merko)](https://github.com/DevModee/)<br>   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevModee&layout=compact&theme=tokyonight)](https://github.com/DevModee/)<br>
 
 [![DevModee's GitHub stats](https://visitor-badge.laobi.icu/badge?page_id=DevModee.readme.visitor-badge)](https://github.com/DevModee/) 
