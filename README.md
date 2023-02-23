@@ -7,6 +7,8 @@ I am currently Owner on [MoonNetwork](https://discord.io/networkmoon)
 - MoonCord (Private for my network)
 - FastMOTD (Public)
 - xAntiBot (Private for my network)
+- xHub (Private for my network)
+- xFixer (Private for my network)
 
 ### 🔮 Programming Languages
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
