@@ -17,3 +17,10 @@ I am currently Owner on [MoonNetwork](https://discord.io/networkmoon)
 
 📫 E-mail contact: moonnetworkar@gmail.com <br>
 📞 Discord: Mode#1000
+
+### My GitHub Statistics
+<details>
+   <summary>Click to show</summary>
+   <img align="Left" alt="MOde's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DevModee&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=dark" />
+   <img style="float: right;" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevModee&langs_count=10&layout=compact&hide_border=true&theme=dark"/>
+</details>
