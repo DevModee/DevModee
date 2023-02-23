@@ -5,7 +5,7 @@ I am currently Owner on [MoonNetwork](https://discord.io/networkmoon)
 ### ⛏️ Some of my proyects:
 - MoonSpigot (Private for my network)
 - MoonCord (Private for my network)
-- FastMOTD (Private for my network)
+- FastMOTD (Public)
 - xAntiBot (Private for my network)
 
 ### 🔮 Programming Languages
