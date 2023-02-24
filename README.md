@@ -9,6 +9,7 @@ I am currently Owner on [MoonNetwork](https://discord.io/networkmoon)
 - xAntiBot (Private for my network)
 - xHub (Private for my network)
 - xFixer (Private for my network)
+and 7 more..
 
 ### 🔮 Programming Languages
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
