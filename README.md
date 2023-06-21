@@ -23,6 +23,20 @@ and 7 more..
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code>
 
+<p align="center">
+  <a href="https://discord.com/users/916849892364812290" target="_blank" rel="nofollow">
+    <img align="center" src="https://lanyard-profile-readme.vercel.app/api/330861775203336194?&animated=true&borderRadius=30px&idleMessage=Nothing..." alt="Discord Presence">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://twitter.com/DevModee">
+    <img align="center" alt="Twitter" width="28px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  </a>
+  <a href="https://discord.gg/tUegdxaVnq">
+    <img align="center" alt="Discord" width="28px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+  </a>
+</p>
 
 📫 E-mail contact: moonnetworkar@gmail.com <br>
 📞 Discord: Mode#1000
