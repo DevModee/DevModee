@@ -25,7 +25,7 @@ and 7 more..
 
 <p align="center">
   <a href="https://discord.com/users/916849892364812290" target="_blank" rel="nofollow">
-    <img align="center" src="[![Discord Presence](https://lanyard.cnrad.dev/api/916849892364812290)](https://discord.com/users/916849892364812290)" alt="Discord Presence">
+    <img align="center" src="https://lanyard.cnrad.dev/api/916849892364812290" alt="Discord Presence">
   </a>
 </p>
 
