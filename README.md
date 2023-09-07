@@ -1,5 +1,4 @@
-![amargo](https://github.com/DevModee/DevModee/assets/104334245/9490c47f-35cf-4366-b217-12211bb29a41)
-
+![amargo](https://github.com/DevModee/DevModee/assets/104334245/a01f662a-da03-4762-b91c-4895e07ed1c8)
 <br/><br/>
 <h1 align="center">Web and Software Developer 💯</h1>
 <br/>
@@ -14,9 +13,4 @@
 <div align="center" margin="auto">
   <a href="https://github.com/DevModee/Login-TestWeb"></a>
 </div>
-<br/><br/>
-<h1 align="center">Contact</h1>
-<br/>
-<div align="center" margin="auto">
-  
-</div>
+
