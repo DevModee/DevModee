@@ -18,5 +18,6 @@
 <h1 align="center">Contact</h1>
 <br/>
 <div align="center" margin="auto">
-  [![Discord Presence](https://lanyard.cnrad.dev/api/916849892364812290)](https://discord.com/users/916849892364812290)
+  [![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:id)
 </div>
+[![Discord Presence](https://lanyard.cnrad.dev/api/916849892364812290)](https://discord.com/users/916849892364812290)
