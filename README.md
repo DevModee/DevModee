@@ -1,4 +1,4 @@
-<img src="https://imgur.com/a/MhFIvZV" width="100%">
+![amargo](https://github.com/DevModee/DevModee/assets/104334245/9490c47f-35cf-4366-b217-12211bb29a41)
 
 <br/><br/>
 <h1 align="center">Web and Software Developer 💯</h1>
@@ -18,6 +18,5 @@
 <h1 align="center">Contact</h1>
 <br/>
 <div align="center" margin="auto">
-  [![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:id)
+  
 </div>
-[![Discord Presence](https://lanyard.cnrad.dev/api/916849892364812290)](https://discord.com/users/916849892364812290)
