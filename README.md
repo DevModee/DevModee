@@ -39,9 +39,9 @@
   <li>🧭 How to reach me: <strong>amargos / @DevModee</strong></li>
 </ul>
 
-<h2>🧊 Discord Presence</h2>
+<h2>🧊 </h2>
 <p align="center">
   <a href="https://discord.com/users/916849892364812290" target="_blank">
-    <img src="https://lanyard-profile-readme.vercel.app/api/916849892364812290?bg=1f1f1f&borderRadius=15px&idleMessage=Offline+or+chilling+🍃&animated=true" alt="Discord Status" />
+    <img src="https://lanyard-profile-readme.vercel.app/api/916849892364812290?bg=1f1f1f&borderRadius=15px&idleMessage=Offline+🍃&animated=true" alt="Discord Status" />
   </a>
 </p>
