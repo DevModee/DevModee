@@ -1,16 +1,47 @@
-![amargo](https://github.com/DevModee/DevModee/assets/104334245/a01f662a-da03-4762-b91c-4895e07ed1c8)
-<br/><br/>
-<h1 align="center">Web and Software Developer 💯</h1>
-<br/>
-<div align="center" margin="auto">
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bash,css,discord,eclipse,github,html,idea,java,js,linux,mongodb,nodejs,replit,ts,vscode&perline=8"/>
-  </a>
-</p>
-</div>
-<br/><br/>
-<div align="center" margin="auto">
-  <a href="https://github.com/DevModee/Login-TestWeb"></a>
+<div align="left">
+  <h1>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Matías;" alt="Typing SVG">
+    </a>
+  </h1>
+  <p>Welcome to my GitHub!<br/> I'm currently diving into development and creative projects. 🚀</p>
+
+<h2>🧸 GitHub Stats</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=DevModee&show_icons=true&count_private=true&hide_border=true&title_color=7FFFD4&icon_color=7FFFD4&text_color=c9d1d9&bg_color=0d1117" height="150" alt="DevModee GitHub stats" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevModee&layout=compact&hide_border=true&title_color=7FFFD4&text_color=7FFFD4&bg_color=0d1117" height="150" alt="DevMoee top languages" />
+
+<h2>⛏️ Languages and Tools</h2>
+<div>
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=maven" height="40" alt="Maven logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="IntelliJ IDEA logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB logo" />
 </div>
 
+<h2>📚 Information</h2>
+<ul>
+  <li>🌙 I’m currently learning Python</li>
+  <li>🧭 How to reach me: <strong>amargos / @DevModee</strong></li>
+</ul>
+
+<h2>🧊 Discord Presence</h2>
+<p align="center">
+  <a href="https://discord.com/users/916849892364812290" target="_blank">
+    <img src="https://lanyard-profile-readme.vercel.app/api/916849892364812290?bg=1f1f1f&borderRadius=15px&idleMessage=Offline+or+chilling+🍃&animated=true" alt="Discord Status" />
+  </a>
+</p>
