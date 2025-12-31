@@ -6,10 +6,6 @@
   </h1>
   <p>Welcome to my GitHub!<br/> I'm currently diving into development and creative projects. 🚀</p>
 
-<h2>🧸 GitHub Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=DevModee&show_icons=true&count_private=true&hide_border=true&title_color=7FFFD4&icon_color=7FFFD4&text_color=c9d1d9&bg_color=0d1117" height="150" alt="DevModee GitHub stats" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevModee&layout=compact&hide_border=true&title_color=7FFFD4&text_color=7FFFD4&bg_color=0d1117" height="150" alt="DevMoee top languages" />
-
 <h2>⛏️ Languages and Tools</h2>
 <div>
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java logo" />
