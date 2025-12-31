@@ -31,7 +31,7 @@
 
 <h2>📚 Information</h2>
 <ul>
-  <li>🌙 I’m currently learning Python</li>
+  <li>🌙 I’m currently learning joacos mom</li>
   <li>🧭 How to reach me: <strong>amargos / @DevModee</strong></li>
 </ul>
 
