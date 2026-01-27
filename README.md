@@ -1,36 +1,55 @@
-<div align="left">
-  <h1>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Matías;" alt="Typing SVG">
+<div align="center">
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Matías;Full+Stack+Developer;Building+Aeros+Studio;Creative+Coder;" alt="Typing SVG">
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=devmodee&color=blueviolet" alt="Views" />
+
+  <p>Welcome to my profile! 🚀<br/> I'm currently diving into development and building scalable creative projects.</p>
+
+  <p>
+    🔭 Currently working on <strong>my own creative studio:</strong><br/>
+    <a href="https://aerosdev.studio/">
+      <img src="https://img.shields.io/badge/🚀_Aeros_Dev_Studio-Visit_Website-7957d5?style=for-the-badge&labelColor=000000" alt="Aeros Studio"/>
     </a>
-  </h1>
-  <p>Welcome to my GitHub!<br/> I'm currently diving into development and creative projects. 🚀</p>
+  </p>
 
-<h2>⛏️ Languages and Tools</h2>
-<div>
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=maven" height="40" alt="Maven logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="IntelliJ IDEA logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB logo" />
+  <hr />
+
+  <h2>☕ Statistics</h2>
+  
+  <p>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devmodee&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues,contribs&bg_color=00000000" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmodee&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php" alt="Top Languages" />
+  </p>
+
+  <p>
+    <a href="https://git.io/streak-stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=devmodee&theme=tokyonight&hide_border=true&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&bg_color=00000000" alt="GitHub Streak" />
+    </a>
+  </p>
+
+  <hr />
+
+  <h2>🛠️ Tech Stack</h2>
+
+  <h3>Languages</h3>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css" alt="Languages" />
+
+  <h3>Frameworks & Libraries</h3>
+  <img src="https://skillicons.dev/icons?i=tailwind,react,nextjs,spring" alt="Frameworks" />
+
+  <h3>Tools & Hosting</h3>
+  <img src="https://skillicons.dev/icons?i=mongodb,maven,idea,git,docker,github,vercel" alt="Tools" />
+
+  <hr />
+
+  <h2>📚 Contact & Info</h2>
+  <p>Got an idea? Let's get in touch!</p>
+  
+  <a href="https://discord.com/users/916849892364812290">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+
 </div>
-
-<h2>📚 Information</h2>
-<ul>
-  <li>🧭 How to reach me: <strong>amargos / @DevModee</strong></li>
-</ul>
-
