@@ -23,12 +23,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmodee&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php" alt="Top Languages" />
   </p>
 
-  <p>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=devmodee&bg_color=1a1b27&color=7957d5&line=bd5eff&point=ffffff&hide_border=true" alt="Activity Graph" />
-  </a>
-</p>
-
   <hr />
 
   <h2>🛠️ Tech Stack</h2>
