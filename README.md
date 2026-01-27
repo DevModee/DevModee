@@ -24,8 +24,8 @@
   </p>
 
   <p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=devmodee&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=devmodee&bg_color=1a1b27&color=7957d5&line=bd5eff&point=ffffff&hide_border=true" alt="Activity Graph" />
   </a>
 </p>
 
