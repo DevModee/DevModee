@@ -9,9 +9,8 @@
   <p>Welcome to my profile! 🚀<br/> I'm currently diving into development and building scalable creative projects.</p>
 
   <p>
-    🔭 Currently working on <strong>my own creative studio:</strong><br/>
     <a href="https://aerosdev.studio/">
-      <img src="https://img.shields.io/badge/🚀_Aeros_Dev_Studio-Visit_Website-7957d5?style=for-the-badge&labelColor=000000" alt="Aeros Studio"/>
+      <img src="https://img.shields.io/badge/🚀_Aeros-Visit_Website-7957d5?style=for-the-badge&labelColor=000000" alt="Aeros Studio"/>
     </a>
   </p>
 
@@ -26,7 +25,7 @@
 
   <p>
     <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=devmodee&theme=tokyonight&hide_border=true&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&bg_color=00000000" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=devmodee&theme=tokyonight&hide_border=true&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&bg_color=00000000" alt="GitHub Streak" />
     </a>
   </p>
 
