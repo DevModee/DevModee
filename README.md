@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Matías;Full+Stack+Developer;Building+Aeros+Studio;Creative+Coder;" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Matías;Full+Stack+Developer;Building+Aeros+Studio;" alt="Typing SVG">
   </a>
 
   <img src="https://komarev.com/ghpvc/?username=devmodee&color=blueviolet" alt="Views" />
@@ -24,10 +24,10 @@
   </p>
 
   <p>
-    <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=devmodee&theme=tokyonight&hide_border=true&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&bg_color=00000000" alt="GitHub Streak" />
-    </a>
-  </p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=devmodee&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  </a>
+</p>
 
   <hr />
 
