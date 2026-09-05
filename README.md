@@ -2,7 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:7aa2f7&height=200&section=header&text=Hi,%20I'm%20Matias%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
+<br/><br/>
+
 <img src="https://readme-typing-svg.herokuapp.com/?color=%237aa2f7&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+PelleMarket+%F0%9F%9B%92;Always+shipping+something+new" />
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=DevModee&color=7aa2f7&style=flat-square&label=Profile+views" />
 
@@ -24,7 +28,7 @@
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css" />
+<img src="https://skillicons.dev/icons?i=js,ts,java,kotlin,python,html,css" />
 
 **Frameworks & Libraries**
 <br/>
@@ -32,7 +36,9 @@
 
 **Tools & Hosting**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,appwrite" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,appwrite,gradle,gcp" />
+<br/>
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
 
 </div>
 
