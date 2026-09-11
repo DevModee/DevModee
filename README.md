@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:7aa2f7&height=200&section=header&text=Hi,%20I'm%20Matias%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<br/><br/>
+<br/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=%237aa2f7&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+PelleMarket+%F0%9F%9B%92;Always+shipping+something+new" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=%237aa2f7&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+PelleMarket+🛒;Always+shipping+something+new" />
 
 <br/><br/>
 
@@ -14,7 +14,7 @@
 
 ---
 
-### 🧑‍💻 About me
+## 🧑‍💻 About me
 
 - 🛒 Building **[PelleMarket](https://pellemarket.com)**, a local marketplace platform
 - 🌐 Check out my work at **[matiasgs.com](https://matiasgs.com)**
@@ -22,149 +22,229 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages**
-<br/>
+### Languages
+
 <img src="https://skillicons.dev/icons?i=js,ts,java,kotlin,python,html,css" />
 
-**Frameworks & Libraries**
-<br/>
+### Frameworks & Libraries
+
 <img src="https://skillicons.dev/icons?i=react,nextjs,express,fastapi,tailwind,vite" />
 
-**Tools & Hosting**
-<br/>
+### Tools & Hosting
+
 <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,appwrite,gradle,gcp" />
+
 <br/>
+
 <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
 
 </div>
 
 ---
 
-### 📦 Project Stacks
+## 📦 Project Stacks
 
 A closer look at what each project actually runs on — some of this I know well, some I'm still learning.
 
 <details>
 <summary><b>🛒 PelleMarket — local marketplace platform</b></summary>
-<br>
 
-**Frontend**
+<br/>
+
+### Frontend
+
 - Next.js 16 · React 19 · TypeScript
-- Tailwind CSS 4 (+ PostCSS, tw-animate-css, tailwind-merge, clsx, class-variance-authority)
-- shadcn/ui · Base UI · Lucide · React Icons · Sonner (toasts)
-- SWR (data fetching) · React Hook Form + Zod (+ @hookform/resolvers)
-- Recharts (charts) · dnd-kit (drag & drop) · react-easy-crop · qrcode
-- next-pwa (PWA) · Capacitor 8 (Android: app, browser, push notifications)
-- Appwrite SDK (web)
-- Sentry · Mixpanel · Vercel Analytics + Speed Insights
+- Tailwind CSS 4
+- PostCSS · tw-animate-css · tailwind-merge · clsx · class-variance-authority
+- shadcn/ui · Base UI · Lucide · React Icons · Sonner
+- SWR
+- React Hook Form + Zod
+- Recharts
+- dnd-kit
+- react-easy-crop
+- qrcode
+- next-pwa
+- Capacitor 8
+- Appwrite SDK
+- Sentry
+- Mixpanel
+- Vercel Analytics + Speed Insights
 
-**Backend**
-- Node.js · Express · TypeScript (tsx in dev)
-- node-appwrite (database, auth, storage)
-- JWT (jsonwebtoken) · bcrypt · CORS · dotenv
-- Multer (uploads) · Nodemailer (emails) · web-push + firebase-admin (push)
+### Backend
+
+- Node.js · Express · TypeScript
+- tsx
+- node-appwrite
+- JWT / jsonwebtoken
+- bcrypt
+- CORS · dotenv
+- Multer
+- Nodemailer
+- web-push
+- firebase-admin
 - Sentry
 
-**Services / infra**
-- Appwrite (Cloud + isolated DEV project) — database, auth, storage
-- MercadoPago (payments)
-- Coolify (deploy)
+### Services / Infrastructure
+
+- Appwrite Cloud
+- Appwrite isolated DEV project
+- Mercado Pago
+- Coolify
 - Custom in-memory rate limiting
 
-**QA**
+### QA
+
 - Playwright + TypeScript
 
 </details>
 
 <details>
 <summary><b>👻 Phantom — POS system</b></summary>
-<br>
 
-**Backend**
-- Python 3.13 · FastAPI · Uvicorn
-- SQLAlchemy 2.0 (mapped declarative) · SQLite (`phantom.db`) · Alembic
-- Pydantic v2 + pydantic-settings
-- JWT (PyJWT) + bcrypt · OAuth2PasswordBearer + API Key header
-- pytest (18 tests) with Starlette/httpx TestClient
+<br/>
 
-**Frontend**
-- Vite 8 · React 19 · TypeScript 6 · Tailwind CSS v4 (`@tailwindcss/vite`)
-- lucide-react (icons)
-- recharts (weekly AreaChart + top-products BarChart)
-- motion (tab transitions, modal springs, goal bar)
-- @formkit/auto-animate (POS cart, stock/customer/partner tables)
-- sonner (toasts) · canvas-confetti (gamification)
-- oxlint · custom UTF-8 BOM CSV export · `@media print` for receipts
+### Backend
+
+- Python 3.13
+- FastAPI · Uvicorn
+- SQLAlchemy 2.0
+- SQLite
+- Alembic
+- Pydantic v2
+- pydantic-settings
+- PyJWT
+- bcrypt
+- OAuth2PasswordBearer
+- API Key authentication
+- pytest
+- Starlette / httpx TestClient
+
+### Frontend
+
+- Vite 8
+- React 19
+- TypeScript 6
+- Tailwind CSS v4
+- `@tailwindcss/vite`
+- lucide-react
+- Recharts
+- Motion
+- @formkit/auto-animate
+- Sonner
+- canvas-confetti
+- oxlint
+- Custom UTF-8 BOM CSV export
+- `@media print` receipts
 
 </details>
 
 <details>
 <summary><b>🌐 Portfolio — matiasgs.com</b></summary>
-<br>
 
-- Next.js 16 (App Router, Turbopack) + React 19
-- TypeScript 5 (strict)
-- Tailwind CSS 4 (CSS tokens, no config file)
+<br/>
 
-**Interface & motion**
-- Motion 13 — hover, magnetic cursor, spotlight, scroll parallax
-- Pure CSS — all entrance and text-reveal animations
-- Lucide — icons
-- React Bits — backgrounds: Dot Field (hero) and Shape Grid (process)
-- Custom Canvas 2D — Particles, Threads, LightRays, Squares, DotField, ClickSpark
-- Fonts via `next/font`: Inter Tight, Instrument Serif, JetBrains Mono
+### Core
 
-**Framework features**
-- `next/image` (optimizes PelleMarket screenshots)
-- `next/og` (build-time social image)
-- Metadata API, `sitemap.ts`, `robots.ts`, JSON-LD
+- Next.js 16
+- App Router
+- Turbopack
+- React 19
+- TypeScript 5
+- Strict mode
+- Tailwind CSS 4
 
-**Tooling**
-- ESLint 9 + `eslint-config-next`
+### Interface & Motion
+
+- Motion 13
+- Lucide
+- React Bits
+- Custom Canvas 2D
+- Inter Tight
+- Instrument Serif
+- JetBrains Mono
+
+### Visual Effects
+
+- Dot Field
+- Shape Grid
+- Particles
+- Threads
+- LightRays
+- Squares
+- DotField
+- ClickSpark
+- Scroll parallax
+- Magnetic cursor
+- Spotlight effects
+
+### Framework Features
+
+- `next/image`
+- `next/og`
+- Metadata API
+- `sitemap.ts`
+- `robots.ts`
+- JSON-LD
+
+### Tooling
+
+- ESLint 9
+- `eslint-config-next`
 - PostCSS
 
 </details>
 
 ---
 
-### 📊 Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="./assets/stats.svg" />
-<img height="165" src="./assets/top-langs.svg" />
+<a href="https://github.com/DevModee">
 
-<br/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=DevModee&show_icons=true&hide_border=true&bg_color=00000000&title_color=7aa2f7&icon_color=7aa2f7&text_color=c9d1d9&cache_seconds=86400" />
+
+</a>
+
+<a href="https://github.com/DevModee">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevModee&layout=compact&hide_border=true&bg_color=00000000&title_color=7aa2f7&text_color=c9d1d9&langs_count=8&cache_seconds=86400" />
+
+</a>
+
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=DevModee&theme=tokyonight&hide_border=true&background=00000000" />
 
-<br/>
-
-<img src="./assets/activity-graph.svg" />
-
 </div>
 
 ---
 
-### 🏆 Trophies
+## 📈 Activity
 
 <div align="center">
-<img src="./assets/trophies.svg" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevModee&bg_color=00000000&color=7aa2f7&line=7aa2f7&point=ffffff&area=true&hide_border=true" />
+
 </div>
 
 ---
 
-### 🚀 Featured Project
+## 🚀 Featured Project
 
 <div align="center">
 
 <a href="https://pellemarket.com">
-<img src="https://img.shields.io/badge/PelleMarket-%F0%9F%9B%92_Local_marketplace_platform-7aa2f7?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/PelleMarket-%F0%9F%9B%92%20Local%20marketplace%20platform-7aa2f7?style=for-the-badge" />
+
 </a>
+
+<br/><br/>
 
 Live local e-commerce platform, presented to the Pellegrini Chamber of Commerce.
 
@@ -172,14 +252,24 @@ Live local e-commerce platform, presented to the Pellegrini Chamber of Commerce.
 
 ---
 
-### 📫 Contact
+## 📫 Contact
 
 <div align="center">
 
-<a href="https://discord.com/users/916849892364812290"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="https://twitter.com/DevModee"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://matiasgs.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://discord.com/users/916849892364812290">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+<a href="https://twitter.com/DevModee">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://matiasgs.com">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
 </div>
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1e2327&height=100&section=footer" />
