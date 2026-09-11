@@ -228,7 +228,7 @@ A closer look at what each project actually runs on — some of this I know well
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevModee&bg_color=00000000&color=7aa2f7&line=7aa2f7&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevModee&theme=tokyo-night&hide_border=true" />
 
 </div>
 
