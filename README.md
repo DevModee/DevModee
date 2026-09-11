@@ -204,17 +204,9 @@ A closer look at what each project actually runs on — some of this I know well
 
 <div align="center">
 
-<a href="https://github.com/DevModee">
+<img height="180" src="./profile/stats.svg" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=DevModee&show_icons=true&hide_border=true&bg_color=00000000&title_color=7aa2f7&icon_color=7aa2f7&text_color=c9d1d9&cache_seconds=86400" />
-
-</a>
-
-<a href="https://github.com/DevModee">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevModee&layout=compact&hide_border=true&bg_color=00000000&title_color=7aa2f7&text_color=c9d1d9&langs_count=8&cache_seconds=86400" />
-
-</a>
+<img height="180" src="./profile/top-langs.svg" />
 
 <br/><br/>
 
@@ -228,7 +220,7 @@ A closer look at what each project actually runs on — some of this I know well
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevModee&theme=tokyo-night&hide_border=true" />
+<img src="./profile/activity.svg" />
 
 </div>
 
