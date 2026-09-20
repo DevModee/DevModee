@@ -17,6 +17,7 @@
 ## 🧑‍💻 About me
 
 - 🛒 Building **[PelleMarket](https://pellemarket.com)**, a local marketplace platform
+- 🚀 Working on **[Aeros](https://aerosdev.com/)**, my own brand.
 - 🌐 Check out my work at **[matiasgs.com](https://matiasgs.com)**
 - 💬 Let's connect on Discord or X
 
