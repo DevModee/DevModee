@@ -1,225 +1,79 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:7aa2f7&height=200&section=header&text=Hi,%20I'm%20Matias%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0b0a,100:1a1917&height=160&section=header&text=Matías%20Sánchez%20González&fontSize=38&fontColor=f3f1ec&desc=Full-Stack%20Developer%20%C2%B7%20Web,%20Mobile%20%26%20Performance%20Software&descSize=16&descColor=aba89f&descAlignY=72" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=%237aa2f7&size=28&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+PelleMarket+🛒;Always+shipping+something+new" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-matiasgs.com-0b0b0a?style=for-the-badge&logo=vercel&logoColor=f3f1ec)](https://www.matiasgs.com)
+[![PelleMarket](https://img.shields.io/badge/PelleMarket-Live%20Web-10b981?style=for-the-badge&logo=googlechrome&logoColor=0b0b0a)](https://pellemarket.com)
+[![Google Play](https://img.shields.io/badge/Google%20Play-Android%20App-10b981?style=for-the-badge&logo=googleplay&logoColor=0b0b0a)](https://play.google.com/store/apps/details?id=dev.pellemarket.app)
+[![Aeros](https://img.shields.io/badge/Aeros-aerosdev.com-ff451a?style=for-the-badge&logo=firefoxbrowser&logoColor=f3f1ec)](https://aerosdev.com)
+
+</div>
+
+---
+
+### About
+
+I'm **Matías**, a developer based in **Argentina** focused on shipping software that actually runs in production — from full-stack web & Android apps to low-overhead Linux tooling, Windows gaming performance software, and high-concurrency game server plugins.
+
+- **Creator of [PelleMarket](https://pellemarket.com)** — local marketplace platform live on web (`v2.2`) and **[Google Play](https://play.google.com/store/apps/details?id=dev.pellemarket.app)**, presented to the Pellegrini Chamber of Commerce.
+- **Founder of [Aeros](https://aerosdev.com)** — home to **Atom** (Windows gaming performance engine), **EmberOS**, and production Minecraft / Hytale plugins.
+- **Open to collaborations & interesting projects** — see everything at **[matiasgs.com](https://www.matiasgs.com)**.
+
+---
+
+### Featured Work
+
+| Project | What it is | Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **PelleMarket** | Local marketplace for Pellegrini (web, Android & admin panel) with Mercado Pago, QR menus, chat & FCM push | `Next.js` · `TypeScript` · `Express` · `Appwrite` · `Capacitor` · `Playwright` | [pellemarket.com](https://pellemarket.com) · [Google Play](https://play.google.com/store/apps/details?id=dev.pellemarket.app) |
+| **Aeros-Panel** | Ultra-lightweight self-hosted Linux app manager replacing Docker with native `systemd` services | `TypeScript` · `Linux` · `systemd` | [Repo](https://github.com/DevModee/Aeros-Panel) |
+| **Atom** | Windows performance engine that tests optimizations individually, measures 1% / 0.1% lows, and restores OS state | `C#` · `.NET 10` · `Avalonia` · `WiX` | [Case study](https://www.matiasgs.com/trabajo/atom) |
+| **Minecraft Server Panel** | Cross-platform desktop panel to manage multiple servers, live consoles & auto-restart | `Electron` · `React` · `TypeScript` | [Repo](https://github.com/DevModee/minecraft-server-panel) |
+| **PulsePrison Core** | Zero-dependency production Prison core for Paper / Folia 1.20.4+ | `Java` · `Paper` · `Folia` | [BuiltByBit](https://builtbybit.com/resources/pulseprison.93264/) · [Docs](https://aerosdev.com/docs/pulse-prison) |
+
+---
+
+### Verified Certifications
+
+**Role Certifications (Timed Technical Assessments)**
+- **[Software Engineer](https://www.hackerrank.com/certificates/ddbd97761f64)** — HackerRank (`Problem Solving` · `SQL` · `REST API`)
+- **[Frontend Developer (React)](https://www.hackerrank.com/certificates/736af638eb65)** — HackerRank (`React` · `JavaScript` · `CSS`)
+
+**AI & Agentic Engineering**
+- **[Claude Code in Action](https://academy.claude.com/verify/aa699cfd30be3b4353f003f57d80bf6c)** — Anthropic · Claude Academy
+- **[Introduction to Model Context Protocol (MCP)](https://academy.claude.com/verify/0df94325e236dbef3edbcb1cbf158fd8)** — Anthropic · Claude Academy
+- **[Claude Code 101](https://academy.claude.com/verify/0a54e8516f8c84b8d93fa75111e85787)** — Anthropic · Claude Academy
+
+**Foundations**
+- **[Foundations of Cybersecurity](https://coursera.org/share/10c7408d3e42258041d18e040016de27)** — Google · Coursera
+- **Domina la IA con Gemini** — Google Gemini · Santander Open Academy (`ID OA-2026-1120003545039`)
+
+---
+
+### Core Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,python,fastapi,java,kotlin,cs,dotnet" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=electron,androidstudio,appwrite,sqlite,firebase,docker,linux,git,github,vercel" />
+
+</div>
+
+---
+
+### Activity & Stats
+
+<div align="center">
+
+<img height="175" src="./profile/stats.svg" />
+<img height="175" src="./profile/top-langs.svg" />
 
 <br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=DevModee&color=7aa2f7&style=flat-square&label=Profile+views" />
-
-</div>
-
----
-
-## 🧑‍💻 About me
-
-- 🛒 Building **[PelleMarket](https://pellemarket.com)**, a local marketplace platform
-- 🚀 Working on **[Aeros](https://aerosdev.com/)**, my own brand.
-- 🌐 Check out my work at **[matiasgs.com](https://matiasgs.com)**
-- 💬 Let's connect on Discord or X
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=js,ts,java,kotlin,python,html,css" />
-
-### Frameworks & Libraries
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,express,fastapi,tailwind,vite" />
-
-### Tools & Hosting
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,appwrite,gradle,gcp" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
-
-</div>
-
----
-
-## 📦 Project Stacks
-
-A closer look at what each project actually runs on — some of this I know well, some I'm still learning.
-
-<details>
-<summary><b>🛒 PelleMarket — local marketplace platform</b></summary>
-
-<br/>
-
-### Frontend
-
-- Next.js 16 · React 19 · TypeScript
-- Tailwind CSS 4
-- PostCSS · tw-animate-css · tailwind-merge · clsx · class-variance-authority
-- shadcn/ui · Base UI · Lucide · React Icons · Sonner
-- SWR
-- React Hook Form + Zod
-- Recharts
-- dnd-kit
-- react-easy-crop
-- qrcode
-- next-pwa
-- Capacitor 8
-- Appwrite SDK
-- Sentry
-- Mixpanel
-- Vercel Analytics + Speed Insights
-
-### Backend
-
-- Node.js · Express · TypeScript
-- tsx
-- node-appwrite
-- JWT / jsonwebtoken
-- bcrypt
-- CORS · dotenv
-- Multer
-- Nodemailer
-- web-push
-- firebase-admin
-- Sentry
-
-### Services / Infrastructure
-
-- Appwrite Cloud
-- Appwrite isolated DEV project
-- Mercado Pago
-- Coolify
-- Custom in-memory rate limiting
-
-### QA
-
-- Playwright + TypeScript
-
-</details>
-
-<details>
-<summary><b>👻 Phantom — POS system</b></summary>
-
-<br/>
-
-### Backend
-
-- Python 3.13
-- FastAPI · Uvicorn
-- SQLAlchemy 2.0
-- SQLite
-- Alembic
-- Pydantic v2
-- pydantic-settings
-- PyJWT
-- bcrypt
-- OAuth2PasswordBearer
-- API Key authentication
-- pytest
-- Starlette / httpx TestClient
-
-### Frontend
-
-- Vite 8
-- React 19
-- TypeScript 6
-- Tailwind CSS v4
-- `@tailwindcss/vite`
-- lucide-react
-- Recharts
-- Motion
-- @formkit/auto-animate
-- Sonner
-- canvas-confetti
-- oxlint
-- Custom UTF-8 BOM CSV export
-- `@media print` receipts
-
-</details>
-
-<details>
-<summary><b>🌐 Portfolio — matiasgs.com</b></summary>
-
-<br/>
-
-### Core
-
-- Next.js 16
-- App Router
-- Turbopack
-- React 19
-- TypeScript 5
-- Strict mode
-- Tailwind CSS 4
-
-### Interface & Motion
-
-- Motion 13
-- Lucide
-- React Bits
-- Custom Canvas 2D
-- Inter Tight
-- Instrument Serif
-- JetBrains Mono
-
-### Visual Effects
-
-- Dot Field
-- Shape Grid
-- Particles
-- Threads
-- LightRays
-- Squares
-- DotField
-- ClickSpark
-- Scroll parallax
-- Magnetic cursor
-- Spotlight effects
-
-### Framework Features
-
-- `next/image`
-- `next/og`
-- Metadata API
-- `sitemap.ts`
-- `robots.ts`
-- JSON-LD
-
-### Tooling
-
-- ESLint 9
-- `eslint-config-next`
-- PostCSS
-
-</details>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="./profile/stats.svg" />
-
-<img height="180" src="./profile/top-langs.svg" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=DevModee&theme=tokyonight&hide_border=true&background=00000000" />
-
-</div>
-
----
-
-## 📈 Activity
-
-<div align="center">
 
 <img src="./profile/activity.svg" />
 
@@ -227,42 +81,13 @@ A closer look at what each project actually runs on — some of this I know well
 
 ---
 
-## 🚀 Featured Project
+### Connect
 
 <div align="center">
 
-<a href="https://pellemarket.com">
-
-<img src="https://img.shields.io/badge/PelleMarket-%F0%9F%9B%92%20Local%20marketplace%20platform-7aa2f7?style=for-the-badge" />
-
-</a>
-
-<br/><br/>
-
-Live local e-commerce platform, presented to the Pellegrini Chamber of Commerce.
+[![Portfolio](https://img.shields.io/badge/matiasgs.com-0b0b0a?style=for-the-badge&logo=vercel&logoColor=f3f1ec)](https://www.matiasgs.com)
+[![X](https://img.shields.io/badge/@DevModee-0b0b0a?style=for-the-badge&logo=x&logoColor=f3f1ec)](https://x.com/DevModee)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/916849892364812290)
+[![Email](https://img.shields.io/badge/Email-ff451a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pellemarket@gmail.com)
 
 </div>
-
----
-
-## 📫 Contact
-
-<div align="center">
-
-<a href="https://discord.com/users/916849892364812290">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-
-<a href="https://twitter.com/DevModee">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-
-<a href="https://matiasgs.com">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1e2327&height=100&section=footer" />
