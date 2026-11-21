@@ -29,39 +29,44 @@
   <rect x="0" y="0" width="1200" height="3" fill="url(#topBar)"/>
 
   <!-- Left column: Status pill -->
-  <g transform="translate(56, 48)">
+  <g transform="translate(56, 44)">
     <rect width="232" height="28" rx="4" fill="#141412" stroke="#272623"/>
     <circle cx="16" cy="14" r="4" fill="#10b981"/>
     <text x="30" y="18" fill="#dad7cf" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" letter-spacing="0.06em">AVAILABLE · ARGENTINA</text>
   </g>
 
   <!-- Main Display Name -->
-  <text x="56" y="136" fill="#f3f1ec" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="50" font-weight="800" letter-spacing="-0.03em">Mat&#237;as S&#225;nchez Gonz&#225;lez<tspan fill="#ff451a">.</tspan></text>
+  <text x="56" y="132" fill="#f3f1ec" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="50" font-weight="800" letter-spacing="-0.03em">Mat&#237;as S&#225;nchez Gonz&#225;lez<tspan fill="#ff451a">.</tspan></text>
 
   <!-- Tagline -->
-  <text x="56" y="176" fill="#aba89f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="400">Full-Stack Developer  &#183;  Building products that exist in production</text>
+  <text x="56" y="170" fill="#aba89f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="400">Full-Stack Developer  &#183;  Building products &amp; open-source tools</text>
 
   <!-- Bottom tags -->
-  <g transform="translate(56, 204)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">
+  <g transform="translate(56, 198)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">
     <rect width="136" height="28" rx="4" fill="#10b981" fill-opacity="0.12" stroke="#10b981" stroke-opacity="0.45"/>
     <text x="14" y="18" fill="#34d399">pellemarket.com</text>
 
     <g transform="translate(148, 0)">
+      <rect width="174" height="28" rx="4" fill="#38bdf8" fill-opacity="0.10" stroke="#38bdf8" stroke-opacity="0.40"/>
+      <text x="14" y="18" fill="#7dd3fc">npx mercadopago-mcp</text>
+    </g>
+
+    <g transform="translate(334, 0)">
       <rect width="116" height="28" rx="4" fill="#ff451a" fill-opacity="0.12" stroke="#ff451a" stroke-opacity="0.45"/>
       <text x="14" y="18" fill="#ff6b47">aerosdev.com</text>
     </g>
 
-    <g transform="translate(276, 0)">
+    <g transform="translate(462, 0)">
       <rect width="118" height="28" rx="4" fill="#191916" stroke="#272623"/>
       <text x="14" y="18" fill="#dad7cf">matiasgs.com</text>
     </g>
   </g>
 
   <!-- Right architectural status card -->
-  <g transform="translate(868, 48)">
-    <rect width="276" height="164" rx="8" fill="#121210" stroke="#272623"/>
-    <rect x="0" y="0" width="276" height="30" rx="8" fill="#181815"/>
-    <line x1="0" y1="30" x2="276" y2="30" stroke="#272623"/>
+  <g transform="translate(848, 44)">
+    <rect width="296" height="172" rx="8" fill="#121210" stroke="#272623"/>
+    <rect x="0" y="0" width="296" height="30" rx="8" fill="#181815"/>
+    <line x1="0" y1="30" x2="296" y2="30" stroke="#272623"/>
     <circle cx="16" cy="15" r="4" fill="#ff451a"/>
     <circle cx="30" cy="15" r="4" fill="#d97757"/>
     <circle cx="44" cy="15" r="4" fill="#10b981"/>
@@ -69,16 +74,19 @@
 
     <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">
       <text x="18" y="58" fill="#8a877e">flagship</text>
-      <text x="110" y="58" fill="#34d399">PelleMarket v2.2</text>
+      <text x="108" y="58" fill="#34d399">PelleMarket v2.2</text>
 
-      <text x="18" y="84" fill="#8a877e">platform</text>
-      <text x="110" y="84" fill="#f3f1ec">Web + Google Play</text>
+      <text x="18" y="84" fill="#8a877e">open src</text>
+      <text x="108" y="84" fill="#7dd3fc">mercadopago-mcp (npm)</text>
 
       <text x="18" y="110" fill="#8a877e">systems</text>
-      <text x="110" y="110" fill="#ff6b47">Atom · Aeros-Panel</text>
+      <text x="108" y="110" fill="#ff6b47">Atom · Aeros-Panel</text>
 
       <text x="18" y="136" fill="#8a877e">verified</text>
-      <text x="110" y="136" fill="#d97757">HackerRank · Claude</text>
+      <text x="108" y="136" fill="#d97757">HackerRank · Claude</text>
+
+      <text x="18" y="158" fill="#8a877e">glama</text>
+      <text x="108" y="158" fill="#34d399">Rated A (MCP)</text>
     </g>
   </g>
 </svg>

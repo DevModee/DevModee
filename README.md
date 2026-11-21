@@ -7,21 +7,23 @@
 <br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-matiasgs.com-0b0b0a?style=for-the-badge&logo=vercel&logoColor=f3f1ec)](https://www.matiasgs.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-sanchez-gonzalez/)
+[![npm](https://img.shields.io/badge/NPM-mercadopago--mcp-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/mercadopago-mcp)
 [![PelleMarket](https://img.shields.io/badge/PELLEMARKET-LIVE%20WEB-10b981?style=for-the-badge&logo=googlechrome&logoColor=0b0b0a)](https://pellemarket.com)
-[![Google Play](https://img.shields.io/badge/GOOGLE%20PLAY-ANDROID%20APP-10b981?style=for-the-badge&logo=googleplay&logoColor=0b0b0a)](https://play.google.com/store/apps/details?id=dev.pellemarket.app)
+[![Google Play](https://img.shields.io/badge/GOOGLE%20PLAY-ANDROID-10b981?style=for-the-badge&logo=googleplay&logoColor=0b0b0a)](https://play.google.com/store/apps/details?id=dev.pellemarket.app)
 [![Aeros](https://img.shields.io/badge/AEROS-aerosdev.com-ff451a?style=for-the-badge&logo=firefoxbrowser&logoColor=f3f1ec)](https://aerosdev.com)
 
 </div>
 
 <br/>
 
-## About me
+## About
 
-I'm **Matías**, a developer from **Argentina** who builds software that actually ships and stays running in production — from full-stack web & Android apps to lightweight Linux tooling, Windows gaming performance software, and high-concurrency game server plugins.
+I'm **Matías**, a developer from **Argentina** focused on shipping software that runs in production — from full-stack web & Android marketplaces to npm packages, lightweight Linux tooling, and Windows performance software.
 
 - **Creator of [PelleMarket](https://pellemarket.com)** — local marketplace live on web (`v2.2`) and **[Google Play](https://play.google.com/store/apps/details?id=dev.pellemarket.app)**, presented to the Pellegrini Chamber of Commerce.
-- **Founder of [Aeros](https://aerosdev.com)** — home to **Atom** (Windows gaming performance engine), **EmberOS**, and production Minecraft / Hytale plugins.
-- **Always building** — browse case studies and live work at **[matiasgs.com](https://www.matiasgs.com)**.
+- **Author of [mercadopago-mcp](https://github.com/DevModee/mercadopago-mcp)** — read-only-by-default MCP server for Mercado Pago published on **[npm](https://www.npmjs.com/package/mercadopago-mcp)** and rated **A** on **[Glama](https://glama.ai/mcp/servers/DevModee/mercadopago-mcp)**.
+- **Founder of [Aeros](https://aerosdev.com)** — home to **Atom**, **Aeros-Panel**, **EmberOS**, and production Minecraft / Hytale plugins.
 
 <br/>
 
@@ -40,6 +42,18 @@ I'm **Matías**, a developer from **Argentina** who builds software that actuall
       </p>
     </td>
     <td width="50%" valign="top">
+      <h3>mercadopago-mcp <code>npm · Glama A</code></h3>
+      <p>Read-only-by-default MCP server for Mercado Pago in TypeScript. Inspect payments, merchant orders, preferences, and verify webhook signatures (<code>x-signature</code>) locally offline; writes gated behind <code>--allow-writes</code>.</p>
+      <p><code>TypeScript</code> <code>MCP SDK</code> <code>Zod</code> <code>Node.js</code></p>
+      <p>
+        <a href="https://github.com/DevModee/mercadopago-mcp"><b>Repository ↗</b></a> ·
+        <a href="https://www.npmjs.com/package/mercadopago-mcp"><b>npm ↗</b></a> ·
+        <a href="https://glama.ai/mcp/servers/DevModee/mercadopago-mcp"><b>Glama (A) ↗</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>Aeros-Panel <code>Open Source</code></h3>
       <p>Ultra-lightweight self-hosted Linux application manager and dashboard for low-resource servers. Replaces Docker overhead with native <code>systemd</code> services for near-zero idle footprint.</p>
       <p><code>TypeScript</code> <code>Linux</code> <code>systemd</code></p>
@@ -47,22 +61,12 @@ I'm **Matías**, a developer from **Argentina** who builds software that actuall
         <a href="https://github.com/DevModee/Aeros-Panel"><b>Repository ↗</b></a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <h3>Atom <code>In Development</code></h3>
-      <p>Windows gaming performance engine that tests each optimization individually, measures FPS and 1% / 0.1% lows, keeps only measurable gains, and restores Windows when the game closes.</p>
-      <p><code>C#</code> <code>.NET 10</code> <code>Avalonia</code> <code>WiX</code></p>
+      <h3>Atom &amp; Gaming Tools <code>C# · Java · Electron</code></h3>
+      <p><b>Atom</b> (Windows gaming performance engine measuring 1% / 0.1% lows), <b>Minecraft Server Panel</b> (Electron desktop manager), and <b>PulsePrison Core</b> (Paper/Folia plugin).</p>
+      <p><code>C#</code> <code>.NET 10</code> <code>Electron</code> <code>Java</code> <code>Paper</code></p>
       <p>
-        <a href="https://www.matiasgs.com/trabajo/atom"><b>Case study ↗</b></a> ·
-        <a href="https://aerosdev.com"><b>Aeros ↗</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Minecraft Server Panel & Plugins <code>Java / Electron</code></h3>
-      <p>Cross-platform desktop server manager with live consoles & auto-restart, plus <b>PulsePrison Core</b> (zero-dependency Paper/Folia core) and <b>Hytale-DiscordSync</b>.</p>
-      <p><code>Electron</code> <code>React</code> <code>Java</code> <code>Paper</code> <code>Folia</code></p>
-      <p>
+        <a href="https://www.matiasgs.com/trabajo/atom"><b>Atom ↗</b></a> ·
         <a href="https://github.com/DevModee/minecraft-server-panel"><b>Server Panel ↗</b></a> ·
         <a href="https://builtbybit.com/resources/pulseprison.93264/"><b>PulsePrison ↗</b></a>
       </p>
@@ -124,6 +128,7 @@ I'm **Matías**, a developer from **Argentina** who builds software that actuall
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/matiasgs.com-0b0b0a?style=for-the-badge&logo=vercel&logoColor=f3f1ec)](https://www.matiasgs.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-sanchez-gonzalez/)
 [![X](https://img.shields.io/badge/@DevModee-0b0b0a?style=for-the-badge&logo=x&logoColor=f3f1ec)](https://x.com/DevModee)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/916849892364812290)
 [![Email](https://img.shields.io/badge/Email-ff451a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pellemarket@gmail.com)
