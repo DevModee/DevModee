@@ -60,6 +60,7 @@ I'm **Matías**, a developer from **Argentina** focused on shipping production s
       <p>
         <a href="https://aerosdev.com/atom"><b>Landing ↗</b></a> ·
         <a href="https://github.com/DevModee/atom-releases"><b>Releases ↗</b></a> ·
+        <a href="https://github.com/DevModee/presentmon-frametimes"><b>Frametimes lib ↗</b></a> ·
         <a href="https://www.matiasgs.com/trabajo/atom"><b>Case study ↗</b></a>
       </p>
     </td>
@@ -69,6 +70,7 @@ I'm **Matías**, a developer from **Argentina** focused on shipping production s
       <p><code>Rust</code> <code>egui</code> <code>OpenGL</code> <code>ConPTY</code> <code>LSP</code></p>
       <p>
         <a href="https://www.matiasgs.com/work/covalos"><b>Case study ↗</b></a> ·
+        <a href="https://github.com/DevModee/egui-dither-bg"><b>Dither shader ↗</b></a> ·
         <a href="https://aerosdev.com"><b>Aeros ↗</b></a>
       </p>
     </td>
@@ -94,6 +96,16 @@ I'm **Matías**, a developer from **Argentina** focused on shipping production s
     </td>
   </tr>
 </table>
+
+<br/>
+
+## Open-Source & Side Projects
+
+- 🎨 **[egui-dither-bg](https://github.com/DevModee/egui-dither-bg)** Two-pass GPU GLSL Bayer 8x8 ordered-dither interactive background for `egui` / `eframe` (extracted from **Covalos**).
+- ⚡ **[presentmon-frametimes](https://github.com/DevModee/presentmon-frametimes)** Zero-dependency .NET 10 library and CLI for capturing and analyzing Intel PresentMon frametimes, 1% / 0.1% lows, P99/P99.9, and stutters (extracted from **Atom**).
+- 🔌 **[Hytale-DiscordSync](https://github.com/DevModee/Hytale-DiscordSync)** Two-way real-time chat and status bridge connecting Hytale servers and Discord.
+- 🖥️ **[minecraft-server-panel](https://github.com/DevModee/minecraft-server-panel)** Multi-server Minecraft desktop control panel with live console output and Java checks.
+- 🧩 **[PulsePrison-Addon-Example](https://github.com/DevModee/PulsePrison-Addon-Example)** Official developer API addon template for PulsePrison Core (Paper / Folia 1.20.4+).
 
 <br/>
 
