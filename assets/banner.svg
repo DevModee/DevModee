@@ -80,13 +80,13 @@
       <text x="108" y="84" fill="#7dd3fc">mercadopago-mcp (npm)</text>
 
       <text x="18" y="110" fill="#8a877e">systems</text>
-      <text x="108" y="110" fill="#ff6b47">Atom · Aeros-Panel</text>
+      <text x="108" y="110" fill="#ff6b47">Atom · Covalos · Aeros</text>
 
       <text x="18" y="136" fill="#8a877e">verified</text>
-      <text x="108" y="136" fill="#d97757">HackerRank · Claude</text>
+      <text x="108" y="136" fill="#d97757">HackerRank (5) · Claude</text>
 
-      <text x="18" y="158" fill="#8a877e">glama</text>
-      <text x="108" y="158" fill="#34d399">Rated A (MCP)</text>
+      <text x="18" y="158" fill="#8a877e">mcp</text>
+      <text x="108" y="158" fill="#34d399">Glama A · HOL Guard</text>
     </g>
   </g>
 </svg>

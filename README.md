@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://www.matiasgs.com">
-  <img src="./assets/banner.svg" alt="Matías Sánchez González — Full-Stack Developer" width="100%" />
+  <img src="./assets/banner.svg" alt="Matías Sánchez González · Full-Stack & Systems Developer" width="100%" />
 </a>
 
 <br/><br/>
@@ -19,11 +19,11 @@
 
 ## About
 
-I'm **Matías**, a developer from **Argentina** focused on shipping software that runs in production — from full-stack web & Android marketplaces to npm packages, lightweight Linux tooling, and Windows performance software.
+I'm **Matías**, a developer from **Argentina** focused on shipping production software across full-stack web & Android marketplaces, MCP servers on npm, lightweight Linux tooling, and native Windows desktop software in C# and Rust.
 
-- **Creator of [PelleMarket](https://pellemarket.com)** — local marketplace live on web (`v2.2`) and **[Google Play](https://play.google.com/store/apps/details?id=dev.pellemarket.app)**, presented to the Pellegrini Chamber of Commerce.
-- **Author of [mercadopago-mcp](https://github.com/DevModee/mercadopago-mcp)** — read-only-by-default MCP server for Mercado Pago published on **[npm](https://www.npmjs.com/package/mercadopago-mcp)** and rated **A** on **[Glama](https://glama.ai/mcp/servers/DevModee/mercadopago-mcp)**.
-- **Founder of [Aeros](https://aerosdev.com)** — home to **Atom**, **Aeros-Panel**, **EmberOS**, and production Minecraft / Hytale plugins.
+- **Creator of [PelleMarket](https://pellemarket.com):** local marketplace live on web (`v2.2`) and **[Google Play](https://play.google.com/store/apps/details?id=dev.pellemarket.app)**, presented to the Pellegrini Chamber of Commerce.
+- **Author of [mercadopago-mcp](https://github.com/DevModee/mercadopago-mcp):** read-only-by-default MCP server for Mercado Pago published on **[npm](https://www.npmjs.com/package/mercadopago-mcp)**, rated **A** on **[Glama](https://glama.ai/mcp/servers/DevModee/mercadopago-mcp)**, and verified on **HOL Guard** (`mcp.mercadopago-mcp`).
+- **Founder of [Aeros](https://aerosdev.com):** home to **[Atom](https://aerosdev.com/atom)** (`v2.14.0` public beta), **[Covalos](https://www.matiasgs.com/work/covalos)** (native Rust IDE), **[Aeros-Panel](https://github.com/DevModee/Aeros-Panel)** (`~27.1 MB` idle RAM on Debian 13), and production Minecraft / Hytale plugins.
 
 <br/>
 
@@ -42,7 +42,7 @@ I'm **Matías**, a developer from **Argentina** focused on shipping software tha
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>mercadopago-mcp <code>npm · Glama A</code></h3>
+      <h3>mercadopago-mcp <code>npm · Glama A · HOL Guard</code></h3>
       <p>Read-only-by-default MCP server for Mercado Pago in TypeScript. Inspect payments, merchant orders, preferences, and verify webhook signatures (<code>x-signature</code>) locally offline; writes gated behind <code>--allow-writes</code>.</p>
       <p><code>TypeScript</code> <code>MCP SDK</code> <code>Zod</code> <code>Node.js</code></p>
       <p>
@@ -54,21 +54,42 @@ I'm **Matías**, a developer from **Argentina** focused on shipping software tha
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Aeros-Panel <code>Open Source</code></h3>
-      <p>Ultra-lightweight self-hosted Linux application manager and dashboard for low-resource servers. Replaces Docker overhead with native <code>systemd</code> services for near-zero idle footprint.</p>
-      <p><code>TypeScript</code> <code>Linux</code> <code>systemd</code></p>
+      <h3>Atom <code>Public Beta · v2.14.0</code></h3>
+      <p>Reversible Windows 10/11 gaming performance engine. Measures real frametimes (1% / 0.1% lows) with PresentMon instead of applying blind tweaks, keeps only verified gains, never touches anti-cheat or kernel drivers, and rolls back every change on game exit.</p>
+      <p><code>C#</code> <code>.NET 10</code> <code>Avalonia</code> <code>PresentMon</code> <code>WiX</code></p>
+      <p>
+        <a href="https://aerosdev.com/atom"><b>Landing ↗</b></a> ·
+        <a href="https://github.com/DevModee/atom-releases"><b>Releases ↗</b></a> ·
+        <a href="https://www.matiasgs.com/trabajo/atom"><b>Case study ↗</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Covalos <code>Beta · Native Rust IDE</code></h3>
+      <p>Single-binary native code editor built in Rust without Electron or Chromium. Combines a real ConPTY terminal, LSP diagnostics, Git/GitHub views, low-overhead GLSL ASCII/Dither shaders, and multi-agent orchestration via official Claude Code, Codex, and Gemini CLIs.</p>
+      <p><code>Rust</code> <code>egui</code> <code>OpenGL</code> <code>ConPTY</code> <code>LSP</code></p>
+      <p>
+        <a href="https://www.matiasgs.com/work/covalos"><b>Case study ↗</b></a> ·
+        <a href="https://aerosdev.com"><b>Aeros ↗</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Aeros-Panel <code>Open Source · ~27 MB RAM</code></h3>
+      <p>Single-process self-hosted Linux server control panel without Docker, measured at ~27.1 MB cgroup idle RAM on an Intel Celeron N3060 running 8 <code>systemd</code> services. Includes live WebSocket deploy logs, <code>CPUQuota=</code> limits, <code>scrypt</code> auth, and 1-command install.</p>
+      <p><code>TypeScript</code> <code>Express 5</code> <code>React 19</code> <code>SQLite</code> <code>systemd</code></p>
       <p>
         <a href="https://github.com/DevModee/Aeros-Panel"><b>Repository ↗</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>Atom &amp; Gaming Tools <code>C# · Java · Electron</code></h3>
-      <p><b>Atom</b> (Windows gaming performance engine measuring 1% / 0.1% lows), <b>Minecraft Server Panel</b> (Electron desktop manager), and <b>PulsePrison Core</b> (Paper/Folia plugin).</p>
-      <p><code>C#</code> <code>.NET 10</code> <code>Electron</code> <code>Java</code> <code>Paper</code></p>
+      <h3>Minecraft &amp; Hytale Ecosystem <code>Java 21 · Electron</code></h3>
+      <p><b>PulsePrison Core</b> and <b>AtomCombat</b> (Paper/Folia 1.20.4+ plugins), <b>Hytale-DiscordSync</b> (two-way Hytale &lt;-&gt; Discord bridge), and <b>Minecraft Server Panel</b> (multi-server desktop manager).</p>
+      <p><code>Java 21</code> <code>Paper</code> <code>Folia</code> <code>Electron</code> <code>TypeScript</code></p>
       <p>
-        <a href="https://www.matiasgs.com/trabajo/atom"><b>Atom ↗</b></a> ·
-        <a href="https://github.com/DevModee/minecraft-server-panel"><b>Server Panel ↗</b></a> ·
-        <a href="https://builtbybit.com/resources/pulseprison.93264/"><b>PulsePrison ↗</b></a>
+        <a href="https://builtbybit.com/resources/pulseprison.93264/"><b>PulsePrison ↗</b></a> ·
+        <a href="https://github.com/DevModee/Hytale-DiscordSync"><b>DiscordSync ↗</b></a> ·
+        <a href="https://github.com/DevModee/minecraft-server-panel"><b>Server Panel ↗</b></a>
       </p>
     </td>
   </tr>
@@ -80,15 +101,18 @@ I'm **Matías**, a developer from **Argentina** focused on shipping software tha
 
 <div align="center">
 
-[![Software Engineer — HackerRank](https://img.shields.io/badge/HackerRank-Software%20Engineer-10b981?style=for-the-badge&logo=hackerrank&logoColor=0b0b0a)](https://www.hackerrank.com/certificates/ddbd97761f64)
-[![Frontend Developer (React) — HackerRank](https://img.shields.io/badge/HackerRank-Frontend%20Developer%20(React)-10b981?style=for-the-badge&logo=hackerrank&logoColor=0b0b0a)](https://www.hackerrank.com/certificates/736af638eb65)
+[![Software Engineer · HackerRank](https://img.shields.io/badge/HackerRank-Software%20Engineer-10b981?style=for-the-badge&logo=hackerrank&logoColor=0b0b0a)](https://www.hackerrank.com/certificates/ddbd97761f64)
+[![Frontend Developer (React) · HackerRank](https://img.shields.io/badge/HackerRank-Frontend%20Developer%20(React)-10b981?style=for-the-badge&logo=hackerrank&logoColor=0b0b0a)](https://www.hackerrank.com/certificates/736af638eb65)
+[![SQL (Advanced) · HackerRank](https://img.shields.io/badge/HackerRank-SQL%20(Advanced)-10b981?style=for-the-badge&logo=hackerrank&logoColor=0b0b0a)](https://www.hackerrank.com/certificates/8b73192d6c0b)
+[![Rest API (Intermediate) · HackerRank](https://img.shields.io/badge/HackerRank-Rest%20API%20(Intermediate)-10b981?style=for-the-badge&logo=hackerrank&logoColor=0b0b0a)](https://www.hackerrank.com/certificates/80cdc93a1b0b)
+[![Problem Solving (Intermediate) · HackerRank](https://img.shields.io/badge/HackerRank-Problem%20Solving%20(Intermediate)-10b981?style=for-the-badge&logo=hackerrank&logoColor=0b0b0a)](https://www.hackerrank.com/certificates/a3cd33dfad96)
 
 [![Claude Code in Action](https://img.shields.io/badge/Anthropic-Claude%20Code%20in%20Action-d97757?style=for-the-badge&logo=anthropic&logoColor=0b0b0a)](https://academy.claude.com/verify/aa699cfd30be3b4353f003f57d80bf6c)
 [![Introduction to MCP](https://img.shields.io/badge/Anthropic-Model%20Context%20Protocol-d97757?style=for-the-badge&logo=anthropic&logoColor=0b0b0a)](https://academy.claude.com/verify/0df94325e236dbef3edbcb1cbf158fd8)
 [![Claude Code 101](https://img.shields.io/badge/Anthropic-Claude%20Code%20101-d97757?style=for-the-badge&logo=anthropic&logoColor=0b0b0a)](https://academy.claude.com/verify/0a54e8516f8c84b8d93fa75111e85787)
 
-[![Foundations of Cybersecurity — Google](https://img.shields.io/badge/Google%20%C2%B7%20Coursera-Foundations%20of%20Cybersecurity-272623?style=for-the-badge&logo=google&logoColor=f3f1ec)](https://coursera.org/share/10c7408d3e42258041d18e040016de27)
-![Domina la IA con Gemini — Google Gemini](https://img.shields.io/badge/Google%20Gemini%20%C2%B7%20Santander-Domina%20la%20IA%20con%20Gemini-272623?style=for-the-badge&logo=googlegemini&logoColor=f3f1ec)
+[![Foundations of Cybersecurity · Google](https://img.shields.io/badge/Google%20%C2%B7%20Coursera-Foundations%20of%20Cybersecurity-272623?style=for-the-badge&logo=google&logoColor=f3f1ec)](https://coursera.org/share/10c7408d3e42258041d18e040016de27)
+![Domina la IA con Gemini · Google Gemini](https://img.shields.io/badge/Google%20Gemini%20%C2%B7%20Santander-Domina%20la%20IA%20con%20Gemini-272623?style=for-the-badge&logo=googlegemini&logoColor=f3f1ec)
 
 </div>
 
@@ -98,11 +122,11 @@ I'm **Matías**, a developer from **Argentina** focused on shipping software tha
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,python,fastapi,java,kotlin,cs,dotnet" alt="Languages and Frameworks" />
+<img src="https://skillicons.dev/icons?i=rust,cs,dotnet,ts,js,react,nextjs,tailwind,nodejs,express,java,kotlin,python,fastapi" alt="Languages and Frameworks" />
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=electron,androidstudio,appwrite,sqlite,firebase,docker,linux,git,github,vercel" alt="Tools and Infrastructure" />
+<img src="https://skillicons.dev/icons?i=linux,sqlite,appwrite,electron,androidstudio,firebase,docker,git,github,vercel" alt="Tools and Infrastructure" />
 
 </div>
 
