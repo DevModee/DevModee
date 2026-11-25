@@ -7,6 +7,7 @@
 <br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-matiasgs.com-0b0b0a?style=for-the-badge&logo=vercel&logoColor=f3f1ec)](https://www.matiasgs.com)
+[![Covalos](https://img.shields.io/badge/COVALOS-covalos.com-6366f1?style=for-the-badge&logo=rust&logoColor=white)](https://www.covalos.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-sanchez-gonzalez/)
 [![npm](https://img.shields.io/badge/NPM-mercadopago--mcp-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/mercadopago-mcp)
 [![PelleMarket](https://img.shields.io/badge/PELLEMARKET-LIVE%20WEB-10b981?style=for-the-badge&logo=googlechrome&logoColor=0b0b0a)](https://pellemarket.com)
@@ -23,7 +24,7 @@ I'm **Matías**, a developer from **Argentina** focused on shipping production s
 
 - **Creator of [PelleMarket](https://pellemarket.com):** local marketplace live on web (`v2.2`) and **[Google Play](https://play.google.com/store/apps/details?id=dev.pellemarket.app)**, presented to the Pellegrini Chamber of Commerce.
 - **Author of [mercadopago-mcp](https://github.com/DevModee/mercadopago-mcp):** read-only-by-default MCP server for Mercado Pago published on **[npm](https://www.npmjs.com/package/mercadopago-mcp)**, rated **A** on **[Glama](https://glama.ai/mcp/servers/DevModee/mercadopago-mcp)**, and verified on **HOL Guard** (`mcp.mercadopago-mcp`).
-- **Founder of [Aeros](https://aerosdev.com):** home to **[Atom](https://aerosdev.com/atom)** (`v2.14.0` public beta), **[Covalos](https://www.matiasgs.com/work/covalos)** (native Rust IDE), **[Aeros-Panel](https://github.com/DevModee/Aeros-Panel)** (`~27.1 MB` idle RAM on Debian 13), and production Minecraft / Hytale plugins.
+- **Founder of [Aeros](https://aerosdev.com):** home to **[Covalos](https://www.covalos.com)** (`v0.8.8` public beta, native Rust IDE for Windows, macOS & Linux), **[Atom](https://aerosdev.com/atom)** (`v2.14.0` public beta), **[Aeros-Panel](https://github.com/DevModee/Aeros-Panel)** (`~27.1 MB` idle RAM on Debian 13), and production Minecraft / Hytale plugins.
 
 <br/>
 
@@ -65,13 +66,14 @@ I'm **Matías**, a developer from **Argentina** focused on shipping production s
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>Covalos <code>Beta · Native Rust IDE</code></h3>
-      <p>Single-binary native code editor built in Rust without Electron or Chromium. Combines a real ConPTY terminal, LSP diagnostics, Git/GitHub views, low-overhead GLSL ASCII/Dither shaders, and multi-agent orchestration via official Claude Code, Codex, and Gemini CLIs.</p>
-      <p><code>Rust</code> <code>egui</code> <code>OpenGL</code> <code>ConPTY</code> <code>LSP</code></p>
+      <h3>Covalos <code>Public Beta · v0.8.8</code></h3>
+      <p>Single-binary native IDE built in Rust without Electron or Chromium for Windows, macOS, and Linux. Features Luma's integrated top-bar Notch for multi-agent orchestration (Claude Code, Codex, Gemini), Guided Learning mode, unified <code>Ctrl+P</code> search, real PTY terminal, LSP diagnostics, and GLSL dither shaders.</p>
+      <p><code>Rust</code> <code>egui</code> <code>OpenGL</code> <code>LSP</code> <code>Multi-Agent</code></p>
       <p>
-        <a href="https://www.matiasgs.com/work/covalos"><b>Case study ↗</b></a> ·
-        <a href="https://github.com/DevModee/egui-dither-bg"><b>Dither shader ↗</b></a> ·
-        <a href="https://aerosdev.com"><b>Aeros ↗</b></a>
+        <a href="https://www.covalos.com"><b>Website ↗</b></a> ·
+        <a href="https://github.com/DevModee/Covalos"><b>Repository ↗</b></a> ·
+        <a href="https://github.com/DevModee/Covalos/releases"><b>Releases ↗</b></a> ·
+        <a href="https://www.matiasgs.com/work/covalos"><b>Case study ↗</b></a>
       </p>
     </td>
   </tr>
