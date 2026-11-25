@@ -101,6 +101,13 @@ I'm **Matías**, a developer from **Argentina** focused on shipping production s
 
 <br/>
 
+## AI Agent Plugins
+
+- 🐙 **[github-kit](https://github.com/DevModee/github-kit)** `Antigravity · v1.0.0` Zero-dependency Node.js MCP server (16 tools for PRs, code reviews, issues, Actions logs, code search, and releases), 4 workflow skills, agent rules, and a cross-platform git safety hook.
+- 💳 **[mercadopago-kit](https://github.com/DevModee/mercadopago-kit)** `Antigravity · v1.0.0` Antigravity plugin wrapping `mercadopago-mcp` (read-only by default) with payment debugging, HMAC webhook verification, Checkout Pro skills, and API safety rules.
+
+<br/>
+
 ## Open-Source & Side Projects
 
 - 🎨 **[egui-dither-bg](https://github.com/DevModee/egui-dither-bg)** Two-pass GPU GLSL Bayer 8x8 ordered-dither interactive background for `egui` / `eframe` (extracted from **Covalos**).
