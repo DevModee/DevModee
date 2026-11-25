@@ -104,6 +104,7 @@ I'm **Matías**, a developer from **Argentina** focused on shipping production s
 ## AI Agent Plugins
 
 - 🐙 **[github-kit](https://github.com/DevModee/github-kit)** `Antigravity · v1.0.0` Zero-dependency Node.js MCP server (16 tools for PRs, code reviews, issues, Actions logs, code search, and releases), 4 workflow skills, agent rules, and a cross-platform git safety hook.
+- 🐳 **[docker-kit](https://github.com/DevModee/docker-kit)** `Antigravity · v1.0.0` Zero-dependency Node.js MCP server (14 tools for containers, logs, stats, Compose stacks, images, networks, and volumes with automatic secret redaction), 4 triage/audit skills, and a destructive-command safety hook.
 - 💳 **[mercadopago-kit](https://github.com/DevModee/mercadopago-kit)** `Antigravity · v1.0.0` Antigravity plugin wrapping `mercadopago-mcp` (read-only by default) with payment debugging, HMAC webhook verification, Checkout Pro skills, and API safety rules.
 
 <br/>
