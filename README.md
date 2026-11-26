@@ -144,11 +144,29 @@ I'm **Matías**, a developer from **Argentina** focused on shipping production s
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=rust,cs,dotnet,ts,js,react,nextjs,tailwind,nodejs,express,java,kotlin,python,fastapi" alt="Languages and Frameworks" />
+**Languages**
 
-<br/>
+<img src="https://skillicons.dev/icons?i=rust,cs,ts,js,java" alt="Languages" />
 
-<img src="https://skillicons.dev/icons?i=linux,sqlite,appwrite,electron,androidstudio,firebase,docker,git,github,vercel" alt="Tools and Infrastructure" />
+<br/><br/>
+
+**Frameworks & Runtimes**
+
+<img src="https://skillicons.dev/icons?i=dotnet,react,nextjs,tailwind,nodejs,express" alt="Frameworks and Runtimes" />
+
+<br/><br/>
+
+**Infrastructure & Tools**
+
+<img src="https://skillicons.dev/icons?i=linux,sqlite,appwrite,docker,git,github,vercel" alt="Infrastructure and Tools" />
+
+<br/><br/>
+
+**Editor**
+
+[![Covalos](https://img.shields.io/badge/COVALOS-covalos.com-6366f1?style=for-the-badge&logo=rust&logoColor=white)](https://www.covalos.com)
+
+<sub>The only code editor I use daily — native IDE built in Rust.</sub>
 
 </div>
 
